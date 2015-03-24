@@ -1,5 +1,5 @@
 var board_id='${pro-tech-to-print}';
-var cardorizer_url='${http://github.com/timothyjina/cardorizer/edit/master/bookmarklet/bookmarklet.tmpl.txt}';
+var cardorizer_url='${http://github.com/timothyjina/cardorizer}';
 
 var s=document.createElement('script');
 s.type='text/javascript';
